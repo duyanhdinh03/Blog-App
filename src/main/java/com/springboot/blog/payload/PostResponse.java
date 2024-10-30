@@ -1,5 +1,6 @@
 package com.springboot.blog.payload;
 
+import com.springboot.blog.payload.Dto.PostDto;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
